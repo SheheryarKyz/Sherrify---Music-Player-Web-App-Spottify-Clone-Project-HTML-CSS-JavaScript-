@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="24"
+     height="24"
+     viewBox="0 0 24 24"
+     fill="none"
+     stroke="currentColor"
+     stroke-width="2"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+    <!-- Speaker -->
+    <path d="M5 10H9L14 6V18L9 14H5Z"/>
+
+    <!-- Sound waves -->
+    <path d="M17 9C18.5 10.2 18.5 13.8 17 15"/>
+    <path d="M19.5 6.5C22 8.5 22 15.5 19.5 17.5"/>
+
+</svg>
